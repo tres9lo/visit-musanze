@@ -22,7 +22,7 @@ Built as a dependency-free static site: plain HTML, CSS and a small amount of va
 - **Hero slider** — auto-advances every 5 seconds, with clickable indicator dots for manual control.
 - **Responsive grid layout** — hero, service cards, articles and gallery collapse from multi-column to single-column on mobile.
 - **Micro-interactions** — hover lift on cards and a subtle zoom on gallery images.
-- **Accessible navigation** — semantic landmarks (`header`, `nav`, `main`, `footer`) and `alt` text on every image.
+- **Accessible navigation** — semantic `header`, `nav` and `footer` landmarks, and `alt` text on every image.
 
 ## Screenshots
 
